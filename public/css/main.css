@@ -1,0 +1,27 @@
+/* color Scheme  */
+ /* #DA7F8F */
+ /* #A7BBC7  */
+ /* #E1E5EA  */
+ /* #FAF3F3  */
+
+
+
+body {
+    background-color: #cecece
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:black;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1 {
+    color:blueviolet;
+}
+
+h3{
+    color:blueviolet;
+}
