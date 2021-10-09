@@ -6,7 +6,8 @@
 
 
 body {
-    background-color: #cecece
+    background-color: #E1E5EA;
+    padding-top: 70px;
 }
 
 hr {
@@ -16,12 +17,19 @@ hr {
     border-width: 5px;
     width: 10%;
 }
+a {
+    color: rgb(135, 17, 245);
+}
+
+a:hover {
+    color:rgb(176, 125, 223)
+}
 
 .title-font {
     font-family: 'Oswald', sans-serif;
     font-size: 3.25rem;
     color:rgb(135, 17, 245);
-    text-shadow: 1px 4px 3px rgba(0,0,0,0.5);
+    text-shadow: 0px 1px 2px rgba(0,0,0,0.5);
 }
 
 .main-font {
@@ -31,13 +39,15 @@ hr {
 
 
 /* Change the colors of the rows */
-.top-row {
+.light-row {
     background-color: #E1E5EA;
 }
 
-.second-row {
-    background-color: #A7BBC7;
+.dark-row {
+    background-color: #d8d5ff;
 }
+
+
 
 
 
