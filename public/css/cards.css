@@ -8,6 +8,26 @@
     object-fit: cover;
 }
 
+
+@media only screen and (max-width: 768px) {
+  .card {
+    width: 18rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.card {
+  width:18rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.ams-card-img-top .img-fluid {
+  height: 500px;
+}
+
 div.ams-card-img-container{
   text-align: center;
   overflow:hidden;
